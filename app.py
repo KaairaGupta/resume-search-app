@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv("/content/drive/MyDrive/Millenium_Case_Study/DS/parsed_data/resumes.csv")
+df = pd.read_csv("parsed_data/resumes.csv")
 
 st.title("Candidate Resume Search Platform")
 st.write(f"Total Candidates: {len(df)}")
