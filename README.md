@@ -53,6 +53,12 @@ This platform allows Business Development teams at hedge funds to:
 - **Data Privacy & Security Features:**  
   Encrypt sensitive candidate data and ensure compliance.
 
+## Limitations & Future Improvements
+
+- LLM parsing accuracy depends on resume quality and format.
+- CSV storage is suitable for MVP but should be replaced with a database for scale.
+- Experience inference can be improved using more robust date parsing.
+
 
 ---
 
