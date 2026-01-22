@@ -92,3 +92,8 @@ The app will open automatically. If not, copy the URL from the terminal
 - Loads parsed CSV
 - Filters candidates with multi-value and advanced filters
 - Displays table and charts for insights
+
+## Live Demo
+
+Check out the live demo of the Resume Search Platform here:  
+[Open Streamlit App](https://demoapp-millennium.streamlit.app)
