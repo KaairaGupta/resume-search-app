@@ -56,21 +56,6 @@ This platform allows Business Development teams at hedge funds to:
 
 ---
 
-## Folder Structure
-
-
-
-├── app.py # Streamlit app
-├── data/
-│ └── parsed/
-│ └── resumes.csv # Parsed resume data
-├── parse_resumes.py # LLM-based parsing script
-├── requirements.txt # Python dependencies
-└── README.md
-
-
----
-
 ## Setup Instructions
 
 1. Clone the repo:
