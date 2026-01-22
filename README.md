@@ -63,13 +63,13 @@ This platform allows Business Development teams at hedge funds to:
 git clone <your-repo-link>
 cd <repo-name>
 
-2.Create a virtual environment (optional but recommended):
+2. Create a virtual environment (optional but recommended):
 
 python -m venv venv
 source venv/bin/activate     # Linux/Mac
 venv\Scripts\activate        # Windows
 
-3.Install dependencies:
+3. Install dependencies:
 
 pip install -r requirements.txt
 
