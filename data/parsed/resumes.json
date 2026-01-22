@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Priya Nakamura",
+    "email": "",
+    "education": [],
+    "experience_years": 9.0,
+    "current_role": "Lead Healthcare Analyst",
+    "current_company": "ICICI Securities",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Apac",
+      "Europe",
+      "Us"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Pharmaceutical"
+    ],
+    "skills": [],
+    "source_file": "Priya Nakamura_sellside_healthcare_RLTM.docx"
+  },
+  {
+    "name": "",
+    "email": "",
+    "education": [
+      {
+        "degree": "Chartered Financial Analyst Level 3",
+        "institution": "CFA Institute"
+      },
+      {
+        "degree": "MBA",
+        "institution": "Mumbai Institute of Management"
+      }
+    ],
+    "experience_years": 0.25,
+    "current_role": "",
+    "current_company": "",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Apac"
+    ],
+    "sectors": [
+      "Renewable Energy",
+      "Technology"
+    ],
+    "skills": [],
+    "source_file": "Viktor Sharat.docx"
+  },
+  {
+    "name": "Chen Li (Alex)",
+    "email": "Alex_chen2024@gmail.com",
+    "education": [
+      {
+        "degree": "Master of Science in Financial Technology",
+        "institution": "University of Hong Kong",
+        "dates": "Sept.2021 \u2013 Jul.2023"
+      },
+      {
+        "degree": "Bachelor of Business Administration (Finance)",
+        "institution": "University of Hong Kong",
+        "dates": "Sept.2017 \u2013 Jul.2021"
+      }
+    ],
+    "experience_years": 4.3,
+    "current_role": "Investment Analyst",
+    "current_company": "Bank of China",
+    "investment_approach": [
+      "Quantitative",
+      "Systematic"
+    ],
+    "markets": [
+      "Apac"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Technology"
+    ],
+    "skills": [
+      "Wind Database",
+      "Bloomberg Terminal",
+      "R",
+      "Python",
+      "Microsoft Office Suite",
+      "Sql"
+    ],
+    "source_file": "Chen Li (Alex).docx"
+  },
+  {
+    "name": "MARINA SILVA COSTA",
+    "email": "marina.costa.finance@gmail.com",
+    "education": [
+      {
+        "degree": "Master of business administration (MBA)",
+        "institution": "MIT SLOAN SCHOOL OF MANAGEMENT",
+        "location": "Cambridge, MA, United States",
+        "dates": "August/2019 \u2013 May/2021"
+      },
+      {
+        "degree": "BS in Economics",
+        "institution": "FUNDACAO GETULIO VARGAS",
+        "location": "Sao Paulo, Brazil",
+        "dates": "2013 \u2013 2016"
+      }
+    ],
+    "experience_years": 5.0,
+    "current_role": "Equity Research Analyst",
+    "current_company": "VANGUARD GROUP",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Apac",
+      "Europe",
+      "Us"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Telecom",
+      "Consumer Discretionary"
+    ],
+    "skills": [
+      "Supply Chain Optimization",
+      "Investment Recommendations",
+      "Financial Modeling",
+      "Advanced Excel/Vba",
+      "Market Analysis",
+      "Digital Transformation",
+      "R",
+      "Python"
+    ],
+    "source_file": "MARINA SILVA COSTA.docx"
+  },
+  {
+    "name": "Michael Rodriguez, CFA",
+    "email": "",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Business",
+        "institution": "University of Michigan, Ross School of Business",
+        "graduation_date": "May 2017"
+      }
+    ],
+    "experience_years": 5.5,
+    "current_role": "Analyst, Consumer Internet & Software",
+    "current_company": "Fidelity Asset Management",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Us"
+    ],
+    "sectors": [
+      "Tmt"
+    ],
+    "skills": [
+      "Hypothesis Testing",
+      "Bloomberg Terminal",
+      "S&P Capital Iq",
+      "Advanced Financial Modeling",
+      "Factset",
+      "Excel",
+      "Statistical Analysis"
+    ],
+    "source_file": "Michael Rodriguez, CFA.docx"
+  },
+  {
+    "name": "Vikram Shah, CFA",
+    "email": "Vshah@gmail.com",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Business Administration",
+        "institution": "Northwestern University - Kellogg School of Management",
+        "graduation_date": "May 2014"
+      }
+    ],
+    "experience_years": 7.5,
+    "current_role": "Investment Analyst",
+    "current_company": "Cinctive Capital Management",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Us"
+    ],
+    "sectors": [
+      "Digital Advertising",
+      "Cloud Computing",
+      "Technology",
+      "Media"
+    ],
+    "skills": [
+      "Mandarin (Fluent)",
+      "Microsoft Office",
+      "Financial Modeling",
+      "Factset",
+      "Cantonese (Conversational)",
+      "Bloomberg"
+    ],
+    "source_file": "Vikram Shah.docx"
+  },
+  {
+    "name": "Marcus Chen-Rodriguez",
+    "email": "rchen@hotmail",
+    "education": [
+      {
+        "degree": "Bachelor of Arts in Economics",
+        "institution": "Harvard University",
+        "graduation_year": 2013
+      }
+    ],
+    "experience_years": 10.0,
+    "current_role": "Healthcare Analyst, Investment Team",
+    "current_company": "Coatue Management",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Us"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "skills": [
+      "Healthcare Industry Domain Expertise",
+      "Private Transactions",
+      "Public Equities",
+      "Financial Modeling & Analysis"
+    ],
+    "source_file": "Marcus Chen-Rodriguez Resume.docx"
+  },
+  {
+    "name": "Omar El-Hassan",
+    "email": "o.elhassan15@gmail.com",
+    "education": [
+      {
+        "degree": "Dipl\u00f4me d'Ing\u00e9nieur",
+        "institution": "INSA Lyon",
+        "duration": "September 2019 to September 2022"
+      },
+      {
+        "degree": "Master's degree",
+        "institution": "Universite Lyon",
+        "duration": "September 2021 to September 2022"
+      },
+      {
+        "degree": "Preparatory Classes",
+        "institution": "\u00c9cole Royale Navale",
+        "duration": "September 2017 to July 2019"
+      }
+    ],
+    "experience_years": 1.5,
+    "current_role": "Quantitative Developer",
+    "current_company": "BNP Paribas CIB",
+    "investment_approach": [
+      "Quantitative"
+    ],
+    "markets": [
+      "Europe"
+    ],
+    "sectors": [],
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "C#",
+      "Stochastic Calculus",
+      "Mongodb",
+      "Excel",
+      "Statistics",
+      "Python",
+      "C++",
+      "Probability Theory",
+      ".Net",
+      "Sql"
+    ],
+    "source_file": "Omar El-Hassan 202405.pdf"
+  },
+  {
+    "name": "RYAN PATEL",
+    "email": "ryan.patel0403@gmail.com",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Finance and International Business",
+        "institution": "Columbia Business School, Columbia University",
+        "graduation_date": "May 2017"
+      }
+    ],
+    "experience_years": 7.0,
+    "current_role": "Investment Professional, Generalist \u2013 Soft Catalyst & Fundamental Long/Short",
+    "current_company": "Meridian Capital Partners",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Us"
+    ],
+    "sectors": [
+      "Consumer",
+      "Healthcare",
+      "Technology",
+      "Business & Technology Services"
+    ],
+    "skills": [
+      "Due Diligence",
+      "Investment Analysis",
+      "Private Equity",
+      "M&A Transactions",
+      "Financial Modeling",
+      "Risk Management",
+      "Portfolio Management",
+      "Equity Research"
+    ],
+    "source_file": "RYAN PATEL - Resume.pdf"
+  },
+  {
+    "name": "Dr. Zara Al-Rashid",
+    "email": "",
+    "education": [],
+    "experience_years": 8.0,
+    "current_role": "Lead Analyst \u2013 Pharmaceuticals and Healthcare",
+    "current_company": "Meridian Research Partners",
+    "investment_approach": [
+      "Fundamental"
+    ],
+    "markets": [
+      "Apac"
+    ],
+    "sectors": [
+      "Pharmaceuticals",
+      "Healthcare"
+    ],
+    "skills": [
+      "Financial Analysis",
+      "Cms",
+      "Fda",
+      "Usrds",
+      "Ms Office",
+      "Pubmed",
+      "German Drg",
+      "Factset",
+      "Reuters",
+      "Medpac",
+      "Equity Research",
+      "Bloomberg",
+      "Who"
+    ],
+    "source_file": "Zara Al-Rashid.docx"
+  }
+]
